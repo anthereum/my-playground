@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.todoDone {
+  text-decoration: line-through;
+}
